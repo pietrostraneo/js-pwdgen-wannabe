@@ -1,0 +1,6 @@
+
+
+- Chidere il nome all'utente
+- Chiedere il cognome all'utente
+- Chidere il cognome preferito all'utente
+- Genera una password sulla base dei dati ricavati prima
